@@ -1,5 +1,7 @@
 # smartContract-basic-web-01
 
+link for website: https://ayoo117.github.io/smartContract-basic-web-01/
+
 The provided JavaScript project utilizes the ethers.js library to interact with an Ethereum smart contract. It enables users to connect their Metamask wallet, check the balance of a specific contract address, fund the contract with Ether, and initiate a withdrawal.
 
 The project includes the following key functions:
